@@ -1,0 +1,6 @@
+projectKey=Junit4POC
+serverUrl=http://localhost:9000
+serverVersion=10.3.0.82913
+dashboardUrl=http://localhost:9000/dashboard?id=Junit4POC
+ceTaskId=AYvybKKS6OGg_4ZjYyrj
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYvybKKS6OGg_4ZjYyrj
